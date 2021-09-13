@@ -1,6 +1,6 @@
 # School_District_Analysis.
 
-## Overview of the school district analysis
+### Overview of the school district analysis
 
 The objective of the assignment was to review the idea that the 9th graders grades were altered. This means that we need to compare two analysis.
 - one with the 9th graders included
